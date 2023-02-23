@@ -4,9 +4,9 @@
 ```bash
 npm install
 ```
-To run this project run:
+To run this project use this command in the root folder:
 ```bash
 npm run dev
 ```
-in the root folder
+
 
